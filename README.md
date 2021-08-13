@@ -48,3 +48,7 @@ https://heropy.blog/2019/02/28/blob/
 face-api.js
 
 https://justadudewhohacks.github.io/face-api.js/docs/index.html
+
+color change
+
+http://erunjoy.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%BC%EC%A0%95%EA%B0%84%EA%B2%A9%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EA%B2%BD-%EC%83%89-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0-setInterval
