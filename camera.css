@@ -52,6 +52,8 @@ a {
   background: #ccc;
   font-weight: bold;
   padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: all 1s ease;
 }
 
 button:hover,
@@ -65,7 +67,9 @@ a {
 }
 
 button:focus {
-  outline: solid rgba(241, 20, 20, 0.849);
+  /* outline: solid rgba(241, 20, 20, 0.849); */
+  outline: none;
+  box-shadow: 0 0 0 2px #f00;
 }
 
 a::before {

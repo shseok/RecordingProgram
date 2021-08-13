@@ -34,7 +34,7 @@ function startRecording(stream, event) {
         else
             document.querySelector("." + event.path[0].className).style.backgroundColor = "#f1ee1b";
         flag = !flag;
-        console.log(flag);
+        // console.log(flag);
     }, 1000);
 }
 
