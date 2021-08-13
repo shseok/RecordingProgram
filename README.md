@@ -1,4 +1,4 @@
-## Simple Recoding Program with JS (다소 미흡)
+## Simple Recording Program with JS (다소 미흡)
 
 ## 목표
 
